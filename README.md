@@ -73,33 +73,6 @@ ________________________________________________________________________________
 ###
 _______________________________________________________________________________________________________
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JASWANT2001&theme=radical&hide_border=false)
-<br/>
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JASWANT2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=JASWANT2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
-
-</div>
-
-###
-_______________________________________________________________________________________________________
-###
-<h3 align="left">🏆 GitHub Trophies :</h3>
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=JASWANT2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<!-- [![](https://visitcount.itsvg.in/api?id=JASWANT2001&icon=2&color=10)](https://visitcount.itsvg.in)--> 
-</div>
 
